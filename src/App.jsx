@@ -1,8 +1,8 @@
 // import './App.css'
 import Typography from "@mui/material/Typography";
 import { Routes, Route, Link } from "react-router-dom";
-import Home from "./components/home";
-import Moviedetails from "./components/Moviedetails";
+import Home from "./components/Home.jsx";
+import Moviedetails from "./components/Moviedetails.jsx";
 
 function App() {
   return (
